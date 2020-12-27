@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+/* RESET DA PÁGINA */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma,sans-serif;
+    text-align: justify;
+}
+
+body{
+    background: #feffd7;
+    padding: 10px 5% 15px 5%;
+}
+
+/* CONFIGURAÇÃO DOS TEXTOS EM GERAL */
+h1{
+    font-size: 20pt;
+    text-align: center;
+}
+h2{
+    color: #333;
+    margin-top: 10px;
+}
+p.menssagem-principal{
+    font-size: 15pt;
+    margin-top: 10px;
+}
+p{
+    font-size: 12pt;
+    color: #222;
+}
+spam{
+    color: #005f0c;
+}
+/* LISTA PRINCIPAL */
+ul{
+    padding: 5px 10px 0px 20px;
+}
+ul#preferir li{
+    font-size: 13pt;
+    color: #005f0c;
+    list-style-type: square;
+    margin: 5px 0px 5px 10px;
+}
+ul#evitar li {
+    font-size: 13pt;
+    color: #ad0909;
+    list-style-type: square;
+    margin: 5px 0px 5px 10px;
+}
+
+/* LISTA SECUNDÁRIA */
+ol{
+    margin-bottom: 10px;
+}
+ul#preferir ol li {
+    color: #333;
+    font-size: 11pt;
+    margin-left: 30px;
+    list-style-type: circle;
+}
+ul#evitar ol li{
+    color: #333;
+    font-size: 11pt;
+    margin-left: 30px;
+    list-style-type: circle;
+}
+/* DIVISÓRIAS */
+div#titulo{
+    color: white;
+    margin-top: 5px;
+    padding: 10px;
+    background: #555;
+    border: 1px solid #555;
+    border-radius: 10px;
+    box-shadow: 0 0 3px rgba(200, 200, 200, .5);
+}
+div#preferir{
+    margin-top: 10px;
+    padding: 0 0 10px 10px;
+    background: #b1ffe9;
+    border: 1px solid #555;
+    border-radius: 10px;
+    box-shadow: 0 0 3px rgba(200, 200, 200, .5);
+}
+div#evitar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 0 0 10px 10px;
+    background: #ffd7d7;
+    border: 1px solid #555;
+    border-radius: 10px;
+    box-shadow: 0 0 3px rgba(200, 200, 200, .5);
+}
