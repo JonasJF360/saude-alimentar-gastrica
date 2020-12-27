@@ -1,6 +1,6 @@
 # Dicas de saude alimentar gastrica (para quem sofre de gastrite).
 Lista com alimentos que se deve evitar ou preferir para não agravar ou até mesmo para manter uma sáude gástrica melhor e controlar os ácidos intestinais.
-
+<a href="https://jonasjf360.github.io/saudegastrica/"></a>
 ## OBSERVAÇÕES:
 Criei essa html mais por motivo de estudo que para informação, mas todos os dados contidos no html estão corretos.
 
