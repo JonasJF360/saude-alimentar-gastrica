@@ -40,13 +40,13 @@ ul{
 ul#preferir li{
     font-size: 13pt;
     color: #005f0c;
-    list-style-type: "✓ ";
+    list-style-image: url('../img/yes.svg');
     margin: 5px 0px 5px 10px;
 }
 ul#evitar li {
     font-size: 13pt;
     color: #ad0909;
-    list-style-type: "# ";
+    list-style-image: url('../img/not.svg');
     margin: 5px 0px 5px 10px;
 }
 
