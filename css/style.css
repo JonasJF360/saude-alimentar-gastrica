@@ -30,7 +30,7 @@ p{
     font-size: 12pt;
     color: #222;
 }
-p.final{
+ul.final{
     list-style-type: '* ';
 }
 spam{
